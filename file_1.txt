@@ -8,3 +8,6 @@ test ssh !!!
 again
 
 bug fixed
+
+
+Good morning (from add-feature 1)
