@@ -6,3 +6,5 @@ Fixed critical bug !
 
 
 add new feature !!!
+
+MAster branch: some text changed !!!
