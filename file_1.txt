@@ -1,14 +1,5 @@
 Hello world!!
 Good bye !
 
-Changes for test SSH keys by pushing to origin !
-test
-
-test ssh !!!
-again
-
-bug fixed
-
-
-Good evening (from branch master)
+some new features
 
