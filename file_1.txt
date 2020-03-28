@@ -1,4 +1,5 @@
 Changed by add-feature1
 changed for merge commit
+change in add-feature1
 
 
