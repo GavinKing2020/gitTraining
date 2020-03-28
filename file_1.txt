@@ -1,11 +1,1 @@
-Hello world!!
-Good bye !
-
-some new features
-This is a chenge add-feature1 !!!
-
-
-some new features
-Add-feature1: text!
-
-Add-feature: changed
+file 1 changed add-feature
