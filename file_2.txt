@@ -2,7 +2,7 @@ Good bye !!
 some other line.
 Fixed critical bug !
 
-
+This is line 5 in master changed !
 
 
 add new feature !!!
