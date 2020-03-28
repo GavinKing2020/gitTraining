@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 changes by master !
 critical bug fixed
 
+=======
+changes from file2
+>>>>>>> 8354eb157ccb8f214fc6a62b90e6d1e58b061930
