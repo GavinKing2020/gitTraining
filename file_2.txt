@@ -1,7 +1,11 @@
 Good bye !!
 some other line.
-qq
 
-Line from user2
+Fixed critical bug !
 
-Changes user 2 !!!
+This is line 5 in master changed !
+
+
+add new feature !!!
+
+
