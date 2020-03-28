@@ -1,16 +1,4 @@
-Hello world!!
-Good bye !
+Changed by add-feature1
+changed for merge commit
 
-
-some new features
-
-Changed by user 2
-
-test
-
-test ssh !!!
-again
-
-
-Changes  user 1  !!!!
 
