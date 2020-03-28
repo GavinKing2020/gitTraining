@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-Changed by add-feature1
-changed for merge commit
-change in add-feature1
-
-=======
-line from user1
-change 2
->>>>>>> 8354eb157ccb8f214fc6a62b90e6d1e58b061930
+chenges data in this line 222
 
